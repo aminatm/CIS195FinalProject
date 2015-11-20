@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B362DE0EF531D11A8D32A4B69673C2B4922F83A0" : 0,
+    "DD27A4EB67D07A56B700B83D6F03B9EA04FEEB4A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9A1B1EEB-28C9-4A50-975D-7C12321A0B8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B362DE0EF531D11A8D32A4B69673C2B4922F83A0" : "",
+    "DD27A4EB67D07A56B700B83D6F03B9EA04FEEB4A" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GroupOrganizer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GroupOrganizer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lizzynammour\/GroupOrganizer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B362DE0EF531D11A8D32A4B69673C2B4922F83A0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lizzynammour\/GroupOrganizer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD27A4EB67D07A56B700B83D6F03B9EA04FEEB4A"
+    }
+  ]
+}
